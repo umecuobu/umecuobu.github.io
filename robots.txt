@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umecuobu.github.io/sitemap_index.umecuobu
